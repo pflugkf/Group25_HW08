@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Group25_HW08</string>
+
+    <string name="start_address_label">Starting Address: </string>
+    <string name="start_address_button">Enter Start</string>
+    <string name="end_address_label">Ending Address: </string>
+    <string name="end_address_button">Enter End</string>
+    <string name="get_directions_button">Get Directions</string>
+    <string name="get_restaurants_button">Restaurants</string>
+    <string name="get_gas_stations_button">Gas Stations</string>
+</resources>
